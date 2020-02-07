@@ -1,2 +1,3 @@
-# html_practice
-Just playing around with some HTML
+### html_practice
+
+Very simple webpages
